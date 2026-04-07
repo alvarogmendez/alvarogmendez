@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 
-* 🧠 **[GML_NN: Neural Network Library in C](https://github.com/alvarogmendez/gml_nn)**: MLP library from scratch (TFG - 9.6/10). [Link to Memory](https://oa.upm.es/82476/).
+* 🧠 **[GML_NN: Neural Network Library in C](https://github.com/alvarogmendez/gml_nn)**: MLP library from scratch (Bachelor's Thesis - 9.6/10). [Link to Memory](https://oa.upm.es/82476/).
 * 🧬 **[Biomedical Info Retrieval](https://github.com/alvarogmendez/biomedical_info_retrieval)**: Comparative analysis of generalist vs. domain-specific Transformers (BERT, BioBERT, BiomedBERT) for biomedical retrieval.
 * 🔢 **[Magic Square Generator](https://github.com/alvarogmendez/magic_square_generator)**: Solves N-order squares using a Memetic Algorithm (combining Evolutionary Strategies with deterministic methods).
 * 📜 **[JavaScript Compiler Frontend](https://github.com/alvarogmendez/JSPDL)**: Lexical, syntactic, and semantic analyzer in Python (Academic Project).
@@ -26,6 +26,8 @@
 
 * **Research Intern** @ **[GIB - Biomedical Informatics Group](https://www.gib.fi.upm.es/)** (UPM)
     * *Current role.* Applying AI techniques to biomedical data challenges.
+* **.NET Backend Developer** @ **[Inetum](https://www.inetum.com)**
+    * *02/24 - 06/24* | *Internship.* Implementation of EHR (Electronic Health Records) and HIS (Hospital Information Systems) across various hospitals in Spain.   
 
 ---
 
